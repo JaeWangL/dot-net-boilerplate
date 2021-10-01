@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jnso5\\Desktop\\NetBoilerplate\\NetBoilerplate.API\\NetBoilerplate.API.csproj",
+      "projectUniqueName": "C:\\Users\\jnso5\\Desktop\\GitRepos\\dot-net-boilerplate\\NetBoilerplate\\NetBoilerplate.API\\NetBoilerplate.API.csproj",
       "projectName": "NetBoilerplate.API",
-      "projectPath": "C:\\Users\\jnso5\\Desktop\\NetBoilerplate\\NetBoilerplate.API\\NetBoilerplate.API.csproj",
+      "projectPath": "C:\\Users\\jnso5\\Desktop\\GitRepos\\dot-net-boilerplate\\NetBoilerplate\\NetBoilerplate.API\\NetBoilerplate.API.csproj",
       "packagesPath": "C:\\Users\\jnso5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jnso5\\Desktop\\NetBoilerplate\\NetBoilerplate.API\\obj\\",
+      "outputPath": "C:\\Users\\jnso5\\Desktop\\GitRepos\\dot-net-boilerplate\\NetBoilerplate\\NetBoilerplate.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jnso5\\AppData\\Roaming\\NuGet\\NuGet.Config",
